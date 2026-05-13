@@ -1,6 +1,6 @@
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Nemoris_Hacking&left_color=gray&right_color=1fd157&left_text=Visitas)
 
-# Nemoris_Hacking - Resumen de Actividad
+# Quieres conocerme ? soy Nemoris_Hacking 
 
 ## Descripción
 Nemoris_Hacking (también escrito NemorisHacking) es un grupo de hackers de sombrero negro (black hat) activo en Latinoamérica, principalmente en **Chile** y **Guatemala** durante 2026.
