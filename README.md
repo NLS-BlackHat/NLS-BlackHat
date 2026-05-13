@@ -55,8 +55,5 @@ Cada uno de estos sitios representa parte de mi esfuerzo, creatividad y límites
 - 🧩 [https://nemorishacking.foroactivo.com/](https://nemorishacking.foroactivo.com/)  
   *Foro principal y base de operaciones*
   
--  [https://redchan.foroactivo.com/](https://redchan.foroactivo.com/)  
-  *RedChan Tablon De Discuciones - Eofed*
-
  --- 
  
